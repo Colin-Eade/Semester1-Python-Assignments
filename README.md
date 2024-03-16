@@ -24,19 +24,14 @@ of hashes to indicate each prime number found within the range.
 
 
 * **Assignment 3 - HstCalculator:** A graphical user interface application for 
-* calculating the total cost of an item including Harmonized Sales Tax (HST), 
-* designed to accept user input for the base price and display the final price 
-* with tax applied.
+calculating the total cost of an item including Harmonized Sales Tax (HST), 
+designed to accept user input for the base price and display the final price 
+with tax applied.
 
 
 * **Assignment 4 - CaesarCipher:** A GUI application that enables users to
-* encrypt or decrypt messages using the Caesar Cipher technique.
+encrypt or decrypt messages using the Caesar Cipher technique.
 
 
 * **Assignment 5 - TemperatureConversion:**  A GUI app that converts temperatures
 between Celsius, Fahrenheit, and Kelvin.
-
-
-
-
-
