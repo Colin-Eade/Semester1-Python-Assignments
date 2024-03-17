@@ -7,7 +7,7 @@ demonstrate foundational programming concepts and skills using Python, from basi
 intermediate problem-solving techniques. These projects reflect my initial journey into software development and my 
 growth as a programmer. 
 
-**Note:** For more detail and visuals of each assignment, please refer to the README files located within their 
+**NOTE:** For more detail and visuals of each assignment, please refer to the README files located within their 
 respective folders. These contain descriptions and images that illustrate the assignments in greater detail.
 # Languages & Technologies
 * Python
